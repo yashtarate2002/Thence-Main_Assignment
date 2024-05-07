@@ -24,11 +24,14 @@ UnicornStaff is a platform dedicated to offering top-notch staff augmentation se
 - **Customer Support:** Dedicated support to ensure smooth operations and client satisfaction.
 
 ## Technologies Used
-- HTML
-- CSS ![CSS Icon](link_to_css_icon)
-- Tailwind CSS ![Tailwind CSS Icon](link_to_tailwindcss_icon)
-- JavaScript ![JavaScript Icon](link_to_javascript_icon)
-- React ![React Icon](link_to_react_icon)
+
+- ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML
+- ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
+-  ![Tailwind CSS]([https://img.icons8.com/color/48/000000/tailwind-css.png](https://icons8.com/icon/4PiNHtUJVbLs/tailwind-css)v) Tailwind CSS
+-  - ![React.js](https://img.icons8.com/color/48/000000/javascript.png) Javascript
+-  - ![React.js](https://img.icons8.com/color/48/000000/react-native.png) React.js
+- ![Figma](https://img.icons8.com/color/48/000000/figma--v1.png) Figma
+
 
 ## Process
 To clone and run this project locally, follow these steps:
