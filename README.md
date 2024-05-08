@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Name](#name)
 - [Table of Contents](#table-of-contents)
+- [Demo](#demo)
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
@@ -11,6 +12,9 @@
 
 ## Name
 UnicornStaff
+
+## Demo
+[Demo Link](https://thence-assignment-yash-tarate.netlify.app/)
 
 ## Introduction
 UnicornStaff is a platform dedicated to offering top-notch staff augmentation services to unicorns and high-growth companies. Our focus is on providing a seamless user experience, combining aesthetics and functionality to meet the demanding needs of modern businesses.
