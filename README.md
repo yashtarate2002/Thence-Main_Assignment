@@ -1,4 +1,4 @@
-# UnicornStaff Augmentation Platform
+# React JS Intern-Assignment
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
