@@ -22,4 +22,23 @@
         justify-content: center;
         align-items: center; 
     }
+    .achieved {
+      display:none;
+    }
+    .million {
+      display:none;
+    }
+    .staff{
+      display:none;
+    }
+   
+    .Explore{
+      display:none;
+    }
+    .heroicon img{
+      position:relative;
+      left:40%;
+    }
+    
+    
   }
