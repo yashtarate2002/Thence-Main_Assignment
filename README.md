@@ -25,12 +25,12 @@ UnicornStaff is a platform dedicated to offering top-notch staff augmentation se
 
 ## Technologies Used
 
-- ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML
-- ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
--  ![Tailwind CSS]([https://img.icons8.com/color/48/000000/tailwind-css.png](https://icons8.com/icon/4PiNHtUJVbLs/tailwind-css)v) Tailwind CSS
--  - ![React.js](https://img.icons8.com/color/48/000000/javascript.png) Javascript
--  - ![React.js](https://img.icons8.com/color/48/000000/react-native.png) React.js
-- ![Figma](https://img.icons8.com/color/48/000000/figma--v1.png) Figma
+- ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
+- ![CSS](https://img.icons8.com/color/48/000000/css3.png) 
+-  ![Tailwind CSS]([https://img.icons8.com/color/48/000000/tailwind-css.png](https://icons8.com/icon/4PiNHtUJVbLs/tailwind-css)v) 
+- ![React.js](https://img.icons8.com/color/48/000000/javascript.png)
+-   ![React.js](https://img.icons8.com/color/48/000000/react-native.png) 
+- ![Figma](https://img.icons8.com/color/48/000000/figma--v1.png) 
 
 
 ## Process
